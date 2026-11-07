@@ -1,0 +1,22 @@
+timestamp_utc,query_id,scenario,chain_type,query
+2026-11-07T12:36:25.263533+00:00,20261107123609024702,general,main,How can I prepare for an exam?
+2026-11-07T12:54:19.934403+00:00,week10_01_125410,general,main,How can I plan my study week?
+2026-11-07T12:54:30.974991+00:00,week10_02_125419,general,main,How should I prepare for an exam?
+2026-11-07T12:54:45.719119+00:00,week10_03_125430,general,main,How can I take better lecture notes?
+2026-11-07T12:54:58.604341+00:00,week10_04_125445,general,main,How do I write a polite email to a professor?
+2026-11-07T12:55:27.307952+00:00,week10_05_125458,admissions,main,What documents are commonly needed for college applications?
+2026-11-07T12:56:06.550597+00:00,week10_06_125527,admissions,main,How can I prepare a personal statement?
+2026-11-07T12:56:46.586212+00:00,week10_07_125606,admissions,main,What should I ask an admissions advisor?
+2026-11-07T12:57:19.646549+00:00,week10_08_125646,admissions,main,How can I organize application tasks?
+2026-11-07T12:57:50.586580+00:00,week10_09_125719,courses,main,What is a course prerequisite?
+2026-11-07T12:58:34.484503+00:00,week10_10_125750,courses,main,How should I choose an elective?
+2026-11-07T12:59:16.670235+00:00,week10_11_125834,courses,main,How can I review difficult course material?
+2026-11-07T12:59:56.156151+00:00,week10_12_125916,courses,main,How do I prepare for a group project?
+2026-11-07T13:00:38.667507+00:00,week10_13_125956,library,main,How can I find reliable research sources?
+2026-11-07T13:02:03.469928+00:00,week10_14_130038,library,main,What is a primary source?
+2026-11-07T13:02:32.875876+00:00,week10_15_130203,library,main,How do I avoid plagiarism?
+2026-11-07T13:02:56.068497+00:00,week10_16_130232,library,main,What information belongs in a citation?
+2026-11-07T13:03:25.646222+00:00,week10_17_130256,student_support,main,What can I do when coursework feels overwhelming?
+2026-11-07T13:03:56.428263+00:00,week10_18_130325,student_support,main,How do I prepare to meet an academic advisor?
+2026-11-07T13:04:36.261578+00:00,week10_19_130356,student_support,main,How can I build healthy study habits?
+2026-11-07T13:52:12.618288+00:00,week10_20_130436,student_support,main,How can I ask for help in a class?
